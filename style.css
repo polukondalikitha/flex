@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: sans-serif;
+    border: 2px solid;   
+}
+header{
+    border: 2px solid;
+    padding-bottom: 9px;
+    background-color:lightgray;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.prodect{
+    
+}
+
+/*a {
+    text-decoration: none;
+    color: brown;
+}*/
+
+a:hover {
+    font-weight: bold;
+}
+
+/*li{
+    list-style: none;
+}/*
+
+ .list { 
+     /* float: right;  */
+/* } */
+
+
+
+
+.prodect2{
+    /* clear: both; */
+}
+ ol{ 
+    margin-left: 40px; 
+}
+ul{
+    margin-left: 30px;
+    
+}
+.rip{
+    background-color: blue;
+}
+article{
+    /* width: 450px; */
+    background-color: bisque;
+    /* float: left;  */
+    flex: 3;
+    margin-bottom: 10px;
+    
+}
+aside{
+    
+    
+    /* margin-left: 500px; */
+}
+.DAD{
+    border: 2px solid;
+    /* padding:50px 0 50px 50px; */
+    width: 550px; 
+    /* font-size: 25px; */
+    background-color: lightgoldenrodyellow;
+    margin-bottom: 10px;
+    padding: 45px;
+
+    
+
+    
+    
+}
+.mom{
+    border: 2px solid;
+    /* padding:50px 0 50px 50px; */
+    /* margin:15px 15px 25px 0; */
+    background-color: lightgoldenrodyellow;
+    padding-left: 30px;
+}
+marquee{
+    border: 2px solid;
+    color: blueviolet;
+}
+/* .chethu{ */
+    /* padding-bottom: 0px; */
+    /* margin-bottom: 20px; */
+/* } */
+.WHY{
+
+     margin-bottom: 20px; 
+}
+/*header{
+    display: flex;
+    justify-content: space-between;
+}*/
+.flex{
+    display: flex;
+    gap: 10px;
+    flex: 2;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
